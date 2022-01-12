@@ -1,4 +1,3 @@
 a = 1
-c =2 
-d = s
-# i went back to change1
+
+# i went back to change 1
